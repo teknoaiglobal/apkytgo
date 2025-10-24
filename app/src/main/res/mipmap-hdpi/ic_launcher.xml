@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M54,54m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0" />
+    
+    <!-- Browser Icon -->
+    <group android:scaleX="0.6" android:scaleY="0.6" android:pivotX="54" android:pivotY="54">
+        <!-- Window Frame -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M20,25 L88,25 L88,83 L20,83 Z"
+            android:strokeWidth="2"
+            android:strokeColor="#FFFFFF" />
+        
+        <!-- Address Bar -->
+        <path
+            android:fillColor="#E0E0E0"
+            android:pathData="M24,29 L84,29 L84,37 L24,37 Z" />
+        
+        <!-- URL Text -->
+        <path
+            android:fillColor="#666666"
+            android:pathData="M28,31 L80,31 L80,35 L28,35 Z" />
+        
+        <!-- Content Area -->
+        <path
+            android:fillColor="#F5F5F5"
+            android:pathData="M24,41 L84,41 L84,79 L24,79 Z" />
+        
+        <!-- Content Lines -->
+        <path
+            android:fillColor="#CCCCCC"
+            android:pathData="M28,45 L80,45 L80,47 L28,47 Z" />
+        <path
+            android:fillColor="#CCCCCC"
+            android:pathData="M28,51 L75,51 L75,53 L28,53 Z" />
+        <path
+            android:fillColor="#CCCCCC"
+            android:pathData="M28,57 L70,57 L70,59 L28,59 Z" />
+    </group>
+    
+</vector>

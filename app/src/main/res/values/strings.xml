@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nama Aplikasi -->
+    <string name="app_name">Browser APK</string>
+    
+    <!-- Subtitle Aplikasi -->
+    <string name="app_subtitle">Buka website dengan Custom Chrome Tabs</string>
+    
+    <!-- Logo Aplikasi -->
+    <string name="app_logo">Logo Aplikasi Browser</string>
+    
+    <!-- Hint untuk input URL -->
+    <string name="url_hint">https://contoh.com</string>
+    
+    <!-- Text tombol buka -->
+    <string name="btn_open_text">Buka di Custom Tab</string>
+    
+    <!-- Informasi aplikasi -->
+    <string name="info_text">Masukkan URL website yang ingin dibuka.\nAplikasi akan menggunakan Custom Chrome Tabs untuk pengalaman browsing yang lebih baik.</string>
+    
+    <!-- WebView Activity -->
+    <string name="webview_title">Browser Fallback</string>
+    
+    <!-- Kontrol WebView -->
+    <string name="btn_back">Kembali</string>
+    <string name="btn_forward">Maju</string>
+    <string name="btn_refresh">Refresh</string>
+    
+    <!-- Pesan Error -->
+    <string name="error_invalid_url">URL tidak valid. Pastikan URL dimulai dengan http:// atau https://</string>
+    <string name="error_no_browser">Tidak ada browser yang tersedia untuk membuka URL</string>
+    <string name="error_loading_page">Gagal memuat halaman</string>
+    
+    <!-- Loading -->
+    <string name="loading">Memuat...</string>
+    
+    <!-- Toast Messages -->
+    <string name="toast_opening_url">Membuka URL...</string>
+    <string name="toast_fallback_browser">Menggunakan browser default</string>
+    <string name="toast_fallback_webview">Menggunakan WebView internal</string>
+    
+    <!-- Menu -->
+    <string name="menu_share">Bagikan</string>
+    <string name="menu_copy_url">Salin URL</string>
+    <string name="menu_open_browser">Buka di Browser</string>
+    
+    <!-- Content Descriptions -->
+    <string name="cd_url_input">Input URL website</string>
+    <string name="cd_open_button">Tombol buka website</string>
+    
+</resources>

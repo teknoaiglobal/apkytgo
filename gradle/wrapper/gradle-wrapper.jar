@@ -1,0 +1,13 @@
+# Gradle Wrapper JAR Placeholder
+# 
+# This file is normally a binary JAR file that contains the Gradle wrapper.
+# In a real Android project, this would be downloaded automatically when you
+# run the Gradle wrapper for the first time.
+#
+# To get the actual gradle-wrapper.jar:
+# 1. Install Android Studio
+# 2. Create a new Android project
+# 3. Copy the gradle-wrapper.jar from that project
+# 4. Or run: gradle wrapper --gradle-version 8.4
+#
+# For now, this is just a placeholder to complete the project structure.
